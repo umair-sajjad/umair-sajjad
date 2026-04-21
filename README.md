@@ -127,14 +127,14 @@ const umair = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umair-sajjad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-sajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=umair-sajjad&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -172,6 +172,6 @@ const umair = {
 
 *"First, solve the problem. Then, write the code."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=umair-sajjad&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
